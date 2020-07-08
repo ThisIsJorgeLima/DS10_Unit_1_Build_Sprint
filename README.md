@@ -62,6 +62,29 @@ The rating system from [Netflix](https://help.netflix.com/en/node/2064) indicate
 
         
 another source: [Film Ratings](https://www.filmratings.com/)
+
+> Secondly, I wanted to see the correlation of the Audience Age’s impact to the individual user rating score and how that may affect the library as a whole.
+
+I used feature engineering by adding an audience column to our dataset, which allowed me to associate the ratings from show ratings by individualities. In this case: Little Kids, Older Kids, Teens, and Mature.
+
+![alt text](https://miro.medium.com/max/1078/1*DfkQ9SD0EfDyC2rT8Ptu6w.png)
+
+![alt text](https://miro.medium.com/max/1098/1*XJP0abMe3OMml0KgXc_ooA.png)
+
+Some may asks… how can a minor user score be even validated? I do not know. There is not enough data to support that thesis. But, since this dataset, Netflix has implemented the ability for the consumer to rate the content with a “thumbs up” or “thumbs down.” This could make a minor more able to rate content viewed. My theory as a parent is that the previous method was most likely rated by an adult.
+
+Source: [Netflix](https://help.netflix.com/en/node/9898) on new Netflix Ratings & Recommendations
+
+
+> *Lastly, I wanted to figure out Netflix’s popular shows by title. This would allow me to determine how and if they are relevant to its selection process regarding user rating scores.*
+
+
+I utilized a word cloud to see which titles within the dataset are most popular. As one can acknowledge from this research, Netflix does a great job making sure it meets its demand by assuring the proper titles are in their library.
+
+![alt text](https://miro.medium.com/max/1280/1*lpUygJ8TqlfH9S4SnKwZMA.png)
+
+Working with this dataset with a past career in motion pictures was fascinating. To learn the skills I have within a few week’s time I was able to dissect, articulate, extract and feature engineer this data set. From working on this project, it makes sense how studios select which projects move forward and particularly how studios stick with these models to make it easier to predict and help the selection process. For a platform such as Netflix, the amount of content in their library allows audiences to view content a La carte, leaving their subscribers tuned in and pleased.
+
 # **Part III - Visulizations**
 
 
