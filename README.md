@@ -2,7 +2,7 @@
 Concerning this dataset and due to the vast amount of time it would take to collect 1,000 shows one by one; the individual gathered method preyed on Netflix’s suggestion engine. The suggestion engine recommends shows like those selected in this dataset.  *"As part of this data set, I took 4 videos from 4 ratings (totaling 16 unique shows), then pulled 53 suggested shows per video. The ratings include G, PG, TV-14, TV-MA. I chose not to pull from every rating (e.g. TV-G, TV-Y, etc.). "*- Chase Willden
 
 
-|                                       [Jorge A. Lima](https://github.com/ThisIsJorgeLima)                                        |                                                                       
+|                                       [Jorge A. Lima](https://github.com/ThisIsJorgeLima)                                        |                                                                       |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | 
 |                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/)                       |                                                    |
 |                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)        
