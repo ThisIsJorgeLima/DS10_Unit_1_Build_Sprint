@@ -22,7 +22,7 @@ Table of contents
    * [Setup](#setup)
    * [Import Statements](#import-statements)
    * [Data Exploration](#data-exploration)
-   * [want to get in touch?] (#want-to-get-in-touch)
+   * [want to get in touch?] (#want-to-get-in-touch?)
    * [You can applaud my story on Medium here](#you-can-applaud-my-story-on-medium-here)
    * [Here is a link to my code](#here-is-a-link-to-my-code)
    * [License](#license)
