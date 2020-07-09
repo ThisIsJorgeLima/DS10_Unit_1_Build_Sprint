@@ -12,8 +12,10 @@ Concerning this dataset and due to the vast amount of time it would take to coll
 Python
 
 ### Data Sources
--   [data.world](https://data.world/chasewillden/netflix-shows/workspace/file?filename=netflix.xlsx)
+[data.world](https://data.world/chasewillden/netflix-shows/workspace/file?filename=netflix.xlsx)
 
+### Notebooks
+[notebook](https://github.com/ThisIsJorgeLima/DS10_Unit_1_Build_Sprint/blob/master/JAL_DS10_Unit_1_Netflix.ipynb)
 Table of contents
 =================
 
