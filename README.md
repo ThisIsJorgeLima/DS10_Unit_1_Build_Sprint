@@ -18,8 +18,8 @@ Python
 [notebook](https://github.com/ThisIsJorgeLima/DS10_Unit_1_Build_Sprint/blob/master/JAL_DS10_Unit_1_Netflix.ipynb)
 
 <br>
-Table of contents
-=================
+### **Table of contents**
+=========================
 
 <!--ts-->
    * [Table of contents](#table-of-contents)
