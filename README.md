@@ -4,9 +4,9 @@ Concerning this dataset and due to the vast amount of time it would take to coll
 
 |                                       [Jorge A. Lima](https://github.com/ThisIsJorgeLima)                                        |                                                                       |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | 
-|                      [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/)                       |                                                    |
-|                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)        
-| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
+|                      [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFWFr4FmRbOig/profile-displayphoto-shrink_400_400/0?e=1599696000&v=beta&t=AJRQvn8R36ErlVPB4-cHmu6D_EtGCxZi1i6sy78hR-4" width = "200" />](https://github.com/)                       |                                                    |
+|                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/ThisIsJorgeLima)        
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jorgelima) |
 
 
 
