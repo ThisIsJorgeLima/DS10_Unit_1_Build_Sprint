@@ -28,7 +28,6 @@ Table of contents
 <!--te-->
 
 # **Load and Validate the Data**
-==================================
 
 *  Load the data as a pandas data frame.
 *  Validate that it has the appropriate number of observations (checking the raw file, and also read the dataset description from data.world [Netflix](https://data.world/chasewillden/netflix-shows/workspace/file?filename=netflix.xlsx) ).
@@ -80,7 +79,6 @@ df.head()
 ```
 
 # **Data Exploration**
-========================
 > *First, I wanted to see if Netflix had a diverse library of content with the array of ratings. I found within the dataset that they have twelve categorical ratings, ranging from G to TV-MA.*
 ![alt text](https://miro.medium.com/max/1220/1*Y5gRPAP82yyE_xq__eUXQA.png)
 
@@ -117,8 +115,6 @@ I utilized a word cloud to see which titles within the dataset are most popular.
 Working with this dataset with a past career in motion pictures was fascinating. To learn the skills I have within a few week’s time I was able to dissect, articulate, extract and feature engineer this data set. From working on this project, it makes sense how studios select which projects move forward and particularly how studios stick with these models to make it easier to predict and help the selection process. For a platform such as Netflix, the amount of content in their library allows audiences to view content a La carte, leaving their subscribers tuned in and pleased.
 
 ### want to get in touch?
-=========================
-
 *  [Linkedin](https://www.linkedin.com/in/jorgelima/)
 *  [Twitter](https://www.twitter.com/thisisjorgelima/)
 *  [Podcast](https://mailchi.mp/db9640dec7a5/a-month-of-saturdays)
