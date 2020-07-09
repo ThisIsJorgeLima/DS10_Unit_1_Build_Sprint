@@ -7,8 +7,6 @@ Concerning this dataset and due to the vast amount of time it would take to coll
 |                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/ThisIsJorgeLima)       | 
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jorgelima) |
 <br>
-<br>
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
 
 ### Language
 Python
