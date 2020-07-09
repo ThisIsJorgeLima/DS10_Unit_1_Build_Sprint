@@ -2,7 +2,7 @@
 Concerning this dataset and due to the vast amount of time it would take to collect 1,000 shows one by one; the individual gathered method preyed on Netflix’s suggestion engine. The suggestion engine recommends shows like those selected in this dataset.  *"As part of this data set, I took 4 videos from 4 ratings (totaling 16 unique shows), then pulled 53 suggested shows per video. The ratings include G, PG, TV-14, TV-MA. I chose not to pull from every rating (e.g. TV-G, TV-Y, etc.). "*- Chase Willden
 <br>
 
-![alt-text(https://gfycat.com/adorableabsolutejavalina-08282016ntflxuscan-documentary-television)
+<iframe src='https://gfycat.com/ifr/AlienatedIlliterateBluebottlejellyfish' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe><p> <a href="https://gfycat.com/alienatedilliteratebluebottlejellyfish">via Gfycat</a></p>
 
 |                                       [Jorge A. Lima](https://github.com/ThisIsJorgeLima)                                        |                                                                                             |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |       
