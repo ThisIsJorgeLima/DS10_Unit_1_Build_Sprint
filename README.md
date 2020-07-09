@@ -8,12 +8,30 @@ Concerning this dataset and due to the vast amount of time it would take to coll
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jorgelima) |
 <br>
 <br>
-![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
-![Typescript](https://img.shields.io/npm/types/typescript.svg?style=flat)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4db1c-b10d-42c3-b157-3746edd9e81d/deploy-status)](netlify link goes in these parenthesis)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
 
-# **Part 1 - Load and Validate the Data**
+### Language
+Python
+
+### Data Sources
+-   [data.world] (https://data.world/chasewillden/netflix-shows/workspace/file?filename=netflix.xlsx)
+
+Table of contents
+=================
+
+<!--ts-->
+   * [Table of contents](#table-of-contents)
+   * [Setup](#setup)
+   * [Import Statements](#import-statements)
+   * [Data Exploration](#data-exploration)
+   * [want to get in touch] (#want-to-get-in-touch)
+   * [You can applaud my story on Medium here](#you-can-applaud-my-story-on-medium-here)
+   * [Here is a link to my code](#here-is-a-link-to-my-code)
+   * [License](#license)
+<!--te-->
+
+# **Load and Validate the Data**
+==================================
 
 *  Load the data as a pandas data frame.
 *  Validate that it has the appropriate number of observations (checking the raw file, and also read the dataset description from data.world [Netflix](https://data.world/chasewillden/netflix-shows/workspace/file?filename=netflix.xlsx) ).
@@ -22,6 +40,7 @@ source: data.world [Netflix Suggestion Engine](https://data.world/chasewillden/n
 
 
 **Setup:**
+=================
 
 ```
 Jupyter notebook
@@ -32,6 +51,8 @@ Google Colab
 
 
 **Import Statements:**
+========================
+
 ```
 # Let's begin by importing pandas
 # We also imported numpy, matplotlib, and seaborn
@@ -61,7 +82,8 @@ print(df.shape)
 df.head()
 ```
 
-# **Part II - Data Exploration**
+# **Data Exploration**
+========================
 > *First, I wanted to see if Netflix had a diverse library of content with the array of ratings. I found within the dataset that they have twelve categorical ratings, ranging from G to TV-MA.*
 ![alt text](https://miro.medium.com/max/1220/1*Y5gRPAP82yyE_xq__eUXQA.png)
 
@@ -97,10 +119,8 @@ I utilized a word cloud to see which titles within the dataset are most popular.
 
 Working with this dataset with a past career in motion pictures was fascinating. To learn the skills I have within a few week’s time I was able to dissect, articulate, extract and feature engineer this data set. From working on this project, it makes sense how studios select which projects move forward and particularly how studios stick with these models to make it easier to predict and help the selection process. For a platform such as Netflix, the amount of content in their library allows audiences to view content a La carte, leaving their subscribers tuned in and pleased.
 
-# **Part III - Visulizations**
-
-
 ### want to get in touch?
+========================
 
 *  [Linkedin](https://www.linkedin.com/in/jorgelima/)
 *  [Twitter](https://www.twitter.com/thisisjorgelima/)
